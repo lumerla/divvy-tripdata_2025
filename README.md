@@ -62,13 +62,6 @@ Both groups follow a strong seasonal pattern, with a peak in the summer months (
 - pandas
 - matplotlib / seaborn
 
-### Roadmap
-
-- [ ] Ride duration distribution (boxplot / density plot)
-- [ ] Heatmap of usage by day of week and hour of day
-- [ ] Geographic analysis of start stations
-- [ ] Breakdown by bike type
-
 ### Author
 
 *Lucia Merlassino*, [GitHub](https://github.com/lumerla) | [LinkedIn](https://www.linkedin.com/in/lumerla)
