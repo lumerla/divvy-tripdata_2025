@@ -37,7 +37,7 @@ Casual riders take longer trips than members on every day of the week, roughly 1
 
 **3. Monthly Ride Volume by Rider Type**
 
-![Monthly Ride Volume by Rider Type](chart_3.png)
+![Monthly Ride Volume by Rider Type](chart3.png)
 
 Both groups follow a strong seasonal pattern, with a peak in the summer months (around August) and a sharp drop in winter. The decline is much steeper for casual riders, whereas members maintain a more stable base of rides throughout the year.
 
@@ -69,6 +69,6 @@ Both groups follow a strong seasonal pattern, with a peak in the summer months (
 - [ ] Geographic analysis of start stations
 - [ ] Breakdown by bike type
 
-## Author
+### Author
 
-*Your name*, [GitHub](https://github.com/your-username) | [LinkedIn](https://www.linkedin.com/in/your-profile)
+*Lucia Merlassino*, [GitHub](https://github.com/lumerla) | [LinkedIn](https://www.linkedin.com/in/lumerla)
